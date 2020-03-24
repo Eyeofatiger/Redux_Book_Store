@@ -1,0 +1,25 @@
+.shop-header{
+    display: flex;
+    border-bottom: 1px solid #5e5e5e;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+}
+
+.shop-header .logo{
+    font-size: 2.5rem;
+    padding-left: 1rem;
+    font-weight: bold;
+}
+
+.shop-header .shopping-cart{
+    align-self: center;
+    font-size: 1.3rem;
+    color: #5e5e5e;
+    padding-right: 1rem;
+}
+
+.shop-header .shopping-cart .cart-icon{
+    font-size: 2.2rem;
+    color: cadetblue;
+    margin-right: 10px;
+}
